@@ -38,4 +38,4 @@ The reviews, job postings, social media posts, and web logs are synthetic, gener
 
 ### License
 
-The code is provided for educational use under the license stated on the book's copyright page. [License Name]
+The code is provided for educational use under the license stated on the book's copyright page. 
